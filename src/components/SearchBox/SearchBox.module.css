@@ -1,0 +1,21 @@
+.search {
+    margin: 0;
+    padding: 0;
+}
+.searchHeader {
+    font-size: 24px;
+    font-weight: 400;
+}
+.searchInput {
+    width: 350px;
+    height: 20px;
+    padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  font-size: 18px;
+}
+.searchInput:hover,
+.searchInput:focus {
+    border-color: #1976d2;
+}
